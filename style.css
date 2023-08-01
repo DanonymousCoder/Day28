@@ -95,6 +95,9 @@ img {
 .form form {
     background-color: white;
 }
+.form form p.head {
+    align-self: center;
+}
 .form form label {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
