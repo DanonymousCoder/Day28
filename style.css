@@ -10,3 +10,6 @@
 .hero nav .nav-link ul {
     list-style-type: none;
 }
+.hero nav .nav-link ul a {
+    text-decoration: none;
+}
