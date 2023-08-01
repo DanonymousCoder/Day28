@@ -61,3 +61,9 @@ img {
 .txt {
     text-align: center;
 }
+.head {
+    font-weight: bold;
+}
+.sub {
+    font-size: 10px;
+}
