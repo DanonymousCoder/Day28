@@ -51,7 +51,7 @@
 }
 .service .boxes {
     display: flex;
-    gap: 2rem;
+    gap: 2.5rem;
 }
 .h-txt {
     font-size: 23px;
