@@ -97,5 +97,6 @@ img {
 }
 .form form input {
     border-radius: 5px;
-    height: 30px;
+    height: 40px;
+    width: 400px;
 }
