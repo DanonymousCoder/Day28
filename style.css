@@ -27,7 +27,7 @@
     text-decoration: none;
     color: white;
 }
-.hero hero-body {
+.hero .hero-body {
     display: flex;
     flex-direction: column;
     justify-content: center;
