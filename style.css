@@ -60,7 +60,8 @@ img {
 }
 .txt {
     text-align: center;
-    column-gap: 10px;
+    display: flex;
+    flex-direction: ;
 }
 .head {
     font-weight: bold;
