@@ -77,4 +77,5 @@ img {
     width: 110px;
     padding: 7px;
     border-radius: 5px;
+    align-self: center;
 }
