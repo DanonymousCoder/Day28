@@ -87,7 +87,7 @@ img {
     display: flex;
     justify-content: center;
     margin: 70px 10px;
-    gap: 1rem;
+    gap: 1.5rem;
 }
 .form img {
     border-radius: 7px;
