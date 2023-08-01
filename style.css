@@ -50,6 +50,9 @@
     align-items: center;
     margin: 100px;
 }
+.h-txt {
+    font-size: 25px;
+}
 img {
     height: 200px;
 }
