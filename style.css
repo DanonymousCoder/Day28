@@ -89,7 +89,7 @@ img {
 .form {
     display: flex;
     justify-content: center;
-    margin: 70px 10px;
+    background-color: ;
     gap: 1.5rem;
 }
 .form img {
