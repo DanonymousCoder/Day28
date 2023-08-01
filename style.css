@@ -34,6 +34,7 @@
     justify-content: center;
     align-items: center;
     padding: 100px;
+    text-align: center;
 }
 .hero .hero-body .head {
     font-size: 32px;
