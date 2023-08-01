@@ -28,6 +28,7 @@
     color: white;
 }
 .hero .hero-body {
+    background-color: blueviolet;
     display: flex;
     flex-direction: column;
     justify-content: center;
