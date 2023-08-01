@@ -84,6 +84,7 @@ img {
     align-self: center;
 }
 .form {
+    display: flex;
     justify-content: center;
     margin: 70px 10px;
 }
