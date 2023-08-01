@@ -95,7 +95,8 @@ img {
 }
 .form img {
     border-radius: 7px;
-    height: 350px;
+    height: 450px;
+    margin-left: 0;
 }
 .form form {
     background-color: rgba(255, 255, 255, 0.938);
