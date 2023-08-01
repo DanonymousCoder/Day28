@@ -8,9 +8,9 @@
     background-color: rgba(0, 0, 0, 0.774);
     display: flex;
 }
-.heroa nav .nav-link {
+.hero nav .nav-link {
     display: flex;
-    
+    position: relative;
 }
 .hero nav .nav-link ul {
     list-style-type: none;
