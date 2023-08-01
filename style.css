@@ -61,7 +61,7 @@ img {
 .txt {
     text-align: center;
     display: flex;
-    flex-direction: ;
+    flex-direction: column;
 }
 .head {
     font-weight: bold;
