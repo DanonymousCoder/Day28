@@ -27,3 +27,6 @@
     text-decoration: none;
     color: white;
 }
+.hero hero-body {
+    display: flex;
+}
