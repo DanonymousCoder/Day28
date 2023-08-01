@@ -12,10 +12,11 @@
 .logo {
     margin-left: 70px;
     color: white;
+    font-size: 30px;
 }
 .hero nav .nav-link {
     display: flex;
-    margin-left: 950px;
+    margin-left: 900px;
 }
 .hero nav .nav-link ul {
     list-style-type: none;
