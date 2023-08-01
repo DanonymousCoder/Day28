@@ -7,3 +7,6 @@
 .container nav {
     background-color: rgba(0, 0, 0, 0.212);
 }
+nav ul {
+    list-style-type: none;
+}
