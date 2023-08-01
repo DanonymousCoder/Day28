@@ -88,3 +88,6 @@ img {
     justify-content: center;
     margin: 70px 10px;
 }
+.form form {
+    background-color: white;
+}
