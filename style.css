@@ -62,7 +62,7 @@ img {
     text-align: center;
     display: flex;
     flex-direction: column;
-    gap: 3rem;
+    gap: 1rem;
 }
 .head {
     font-weight: bold;
