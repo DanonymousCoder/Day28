@@ -8,9 +8,11 @@
     background-color: rgba(0, 0, 0, 0.774);
     display: flex;
 }
+
 .hero nav .nav-link ul {
     list-style-type: none;
     display: flex;
+    gap: 3rem;
 }
 .hero nav .nav-link ul a {
     text-decoration: none;
