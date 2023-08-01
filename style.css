@@ -9,6 +9,9 @@
     display: flex;
     padding: 20px;
 }
+.logo {
+    margin-left: 50px;
+}
 .hero nav .nav-link {
     display: flex;
     margin-left: 1000px;
