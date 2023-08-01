@@ -50,6 +50,9 @@
     align-items: center;
     margin: 60px;
 }
+.service .boxes {
+    display: flex;
+}
 .h-txt {
     font-size: 23px;
     font-weight: bold;
