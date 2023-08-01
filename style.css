@@ -11,6 +11,7 @@
 }
 .hero nav .nav-link {
     display: flex;
+    margin-left: 1000px;
 }
 .hero nav .nav-link ul {
     list-style-type: none;
