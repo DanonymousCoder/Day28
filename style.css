@@ -45,7 +45,7 @@
     color: white;
 }
 .container2 {
-    background-color: grey;
+    background-color: rgba(128, 128, 128, 0.548);
 }
 .service {
     display: flex;
