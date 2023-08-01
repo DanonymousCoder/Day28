@@ -29,4 +29,5 @@
 }
 .hero hero-body {
     display: flex;
+    flex-direction: column;
 }
