@@ -7,6 +7,6 @@
 .container nav {
     background-color: rgba(0, 0, 0, 0.212);
 }
-nav .nav-link ul {
+nav .hero .nav-link ul {
     list-style-type: none;
 }
