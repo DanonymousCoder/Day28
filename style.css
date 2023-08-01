@@ -83,3 +83,6 @@ img {
     border-radius: 5px;
     align-self: center;
 }
+.form {
+    justify-content: center;
+}
