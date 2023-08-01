@@ -67,6 +67,9 @@ img {
 .head {
     font-weight: bold;
 }
-.sub {
+.txt .sub {
     font-size: 10px;
+}
+.txt a {
+
 }
