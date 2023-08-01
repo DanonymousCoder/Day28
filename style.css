@@ -45,7 +45,10 @@
     color: white;
 }
 .service {
-    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 30px;
 }
 img {
     height: 200px;
