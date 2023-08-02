@@ -111,6 +111,7 @@ img {
     display: flex;
     justify-content: center;
     font-weight: bolder;
+    font-size: large;
 }
 .form form .name {
     padding: 5px;
