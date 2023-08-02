@@ -172,6 +172,7 @@ footer .sub ul {
     display: flex;
     flex-direction: column;
     gap: .5rem;
+    font-size: 13px;
 }
 .social {
     margin-left: 100px;
