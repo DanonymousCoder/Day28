@@ -127,5 +127,6 @@ img {
     margin-top: 10px;
 }
 .form form .email {
-    
+    padding: 5px;
+    margin: 10px;
 }
