@@ -148,4 +148,5 @@ textarea {
     width: 520px;
     height: 50px;
     color: white;
+    border: 0px solid rgb(40, 68, 226);
 }
