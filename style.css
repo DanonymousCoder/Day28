@@ -167,6 +167,7 @@ footer p.head {
 footer .sub ul {
     list-style-type: none;
     display: flex;
+    flex-direction: column;
 }
 .social {
     margin-left: 100px;
