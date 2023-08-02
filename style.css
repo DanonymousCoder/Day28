@@ -157,7 +157,8 @@ footer {
     display: flex;
     background-color: rgba(0, 0, 0, 0.774);
     color: white;
-    gap: 5rem;
+    gap: 7rem;
+    padding: 10px;
 }
 .social a img {
     height: 40px;
