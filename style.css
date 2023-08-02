@@ -153,6 +153,9 @@ textarea {
     border: 0px solid rgb(40, 68, 226);
     margin-top: 25px;
 }
+footer {
+    display: flex;
+}
 .social a img {
     height: 40px;
 }
