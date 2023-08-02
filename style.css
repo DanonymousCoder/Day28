@@ -89,7 +89,6 @@ img {
 .form {
     display: flex;
     justify-content: center;
-    background-color: rgba(128, 128, 128, 0.548);
     padding-top: 130px;
     gap: 1.5rem;
 }
