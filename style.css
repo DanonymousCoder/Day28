@@ -156,6 +156,7 @@ textarea {
 footer {
     display: flex;
     background-color: rgba(0, 0, 0, 0.774);
+    color: white;
 }
 .social a img {
     height: 40px;
