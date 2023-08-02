@@ -31,7 +31,7 @@ body {
     color: white;
 }
 .hero .hero-body {
-     background: linear-gradient(0deg, #3498db, #e6e6fa);;
+     background: linear-gradient(0deg, #3498db, #e6e6fa);
     display: flex;
     flex-direction: column;
     justify-content: center;
