@@ -160,6 +160,10 @@ footer {
     gap: 7rem;
     padding: 20px;
 }
+.social ul {
+    list-style-type: none;
+    display: flex;
+} 
 .social a img {
     height: 40px;
     color: white;
