@@ -167,7 +167,6 @@ footer p.head {
     list-style-type: none;
     display: flex;
     gap: 1rem;
-    margin-top: 10px;
 } 
 .social a img {
     height: 40px;
