@@ -168,6 +168,7 @@ footer .sub ul {
     list-style-type: none;
     display: flex;
     flex-direction: column;
+    gap: .5rem;
 }
 .social {
     margin-left: 100px;
