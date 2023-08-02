@@ -119,7 +119,7 @@ img {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .form form input {
-    border-radius: 7px;
+    border-radius: 10px;
     border: 1px solid gray;
     height: 40px;
     width: 520px;
