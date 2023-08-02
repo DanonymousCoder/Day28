@@ -153,3 +153,6 @@ textarea {
     border: 0px solid rgb(40, 68, 226);
     margin-top: 25px;
 }
+.social a img {
+    height: 30px;
+}
