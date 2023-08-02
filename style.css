@@ -160,6 +160,9 @@ footer {
     gap: 7rem;
     padding: 30px 100px;
 }
+footer p.head {
+    margin-bottom: 10px;
+}
 .social ul {
     list-style-type: none;
     display: flex;
