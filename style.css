@@ -107,6 +107,8 @@ img {
 }
 .form form p.head {
     margin: 0 130px;
+    padding: 5px;
+    display: flex;
 }
 .form form .name {
     padding: 5px;
