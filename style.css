@@ -154,7 +154,7 @@ textarea {
 }
 footer {
     display: flex;
-    background-color: rgba(0, 0, 0, 0.774);
+    background-color: #041b2cd8;
     color: white;
     gap: 7rem;
     padding: 30px 100px;
