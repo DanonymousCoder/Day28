@@ -176,6 +176,7 @@ footer p.head {
 .social a img {
     height: 20px;
     color: white;
+    filter: grayscale(100%);
 }
 footer .about p.sub {
     font-size: 10px;
